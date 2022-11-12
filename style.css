@@ -1,0 +1,15 @@
+.container {
+    text-align: center;
+}
+
+.header1{
+    color : blue;
+}
+
+.header2{
+    color : green;
+}
+
+body {
+    background-color: orange;
+}
